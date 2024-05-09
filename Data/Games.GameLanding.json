@@ -1,0 +1,156 @@
+[
+  {
+    "_id": {
+      "$oid": "65bcd01745350f3d026b8432"
+    },
+    "platform": "steam",
+    "description": "ماجراجویی با داستان فوق‌العاده ",
+    "image": "https://wenbstorage.storage.iran.liara.space/webgame/image/gameLanding/1.jpg",
+    "createAt": {
+      "$date": "2024-02-02T11:20:55.478Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bcd02145350f3d026b8434"
+    },
+    "platform": "pc",
+    "description": "ماجراجویی با داستان فوق‌العاده ",
+    "image": "https://wenbstorage.storage.iran.liara.space/webgame/image/gameLanding/2.jpg",
+    "createAt": {
+      "$date": "2024-02-02T11:21:05.845Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bcd02445350f3d026b8436"
+    },
+    "platform": "xbox",
+    "description": "ماجراجویی با داستان فوق‌العاده ",
+    "image": "https://wenbstorage.storage.iran.liara.space/webgame/image/gameLanding/3.jpg",
+    "createAt": {
+      "$date": "2024-02-02T11:21:08.544Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bcd02c45350f3d026b8438"
+    },
+    "platform": "android",
+    "description": "ماجراجویی با داستان فوق‌العاده ",
+    "image": "https://wenbstorage.storage.iran.liara.space/webgame/image/gameLanding/5.jpg",
+    "createAt": {
+      "$date": "2024-02-02T11:21:16.496Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bcd02f45350f3d026b843a"
+    },
+    "platform": "playstation",
+    "description": "ماجراجویی با داستان فوق‌العاده ",
+    "image": "https://wenbstorage.storage.iran.liara.space/webgame/image/gameLanding/6.jpg",
+    "createAt": {
+      "$date": "2024-02-02T11:21:19.908Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bcd03345350f3d026b843c"
+    },
+    "platform": "nintendo",
+    "description": "ماجراجویی با داستان فوق‌العاده ",
+    "image": "https://wenbstorage.storage.iran.liara.space/webgame/image/gameLanding/7.jpg",
+    "createAt": {
+      "$date": "2024-02-02T11:21:23.445Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bcd03645350f3d026b843e"
+    },
+    "platform": "playstation",
+    "description": "ماجراجویی با داستان فوق‌العاده ",
+    "image": "https://wenbstorage.storage.iran.liara.space/webgame/image/gameLanding/8.jpg",
+    "createAt": {
+      "$date": "2024-02-02T11:21:26.359Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bcd04c45350f3d026b8441"
+    },
+    "platform": "steam",
+    "description": "ماجراجویی با داستان فوق‌العاده ",
+    "image": "https://wenbstorage.storage.iran.liara.space/webgame/image/gameLanding/3.png",
+    "createAt": {
+      "$date": "2024-02-02T11:21:48.701Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bcd05745350f3d026b8443"
+    },
+    "platform": "xbox",
+    "description": "ماجراجویی با داستان فوق‌العاده ",
+    "image": "https://wenbstorage.storage.iran.liara.space/webgame/image/gameLanding/1.webp",
+    "createAt": {
+      "$date": "2024-02-02T11:21:59.685Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bcd06645350f3d026b8447"
+    },
+    "platform": "epicgamesstore",
+    "description": "ماجراجویی با داستان فوق‌العاده ",
+    "image": "https://wenbstorage.storage.iran.liara.space/webgame/image/gameLanding/1.jpg",
+    "createAt": {
+      "$date": "2024-02-02T11:22:14.475Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bcd87645350f3d026b84e0"
+    },
+    "platform": "ios",
+    "description": "ماجراجویی با داستان فوق‌العاده ",
+    "image": "https://wenbstorage.storage.iran.liara.space/webgame/image/gameLanding/2.jpg",
+    "createAt": {
+      "$date": "2024-02-02T11:56:38.586Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bcd89d45350f3d026b84e7"
+    },
+    "platform": "playstation",
+    "description": "ماجراجویی با داستان فوق‌العاده ",
+    "image": "https://wenbstorage.storage.iran.liara.space/webgame/image/gameLanding/2.jpg",
+    "createAt": {
+      "$date": "2024-02-02T11:57:17.813Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bcd8a145350f3d026b84ea"
+    },
+    "platform": "steam",
+    "description": "ماجراجویی با داستان فوق‌العاده ",
+    "image": "https://wenbstorage.storage.iran.liara.space/webgame/image/gameLanding/2.jpg",
+    "createAt": {
+      "$date": "2024-02-02T11:57:21.743Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bcd8a445350f3d026b84ed"
+    },
+    "platform": "pc",
+    "description": "ماجراجویی با داستان فوق‌العاده ",
+    "image": "https://wenbstorage.storage.iran.liara.space/webgame/image/gameLanding/2.jpg",
+    "createAt": {
+      "$date": "2024-02-02T11:57:24.963Z"
+    }
+  }
+]
