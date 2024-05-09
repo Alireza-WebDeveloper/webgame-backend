@@ -1,49 +1,85 @@
 HTTP Request Report
 
-1. (GET) Get All Games
+1. (GET) Retrieve All Games
 
-Endpoint: /api/game
-URI: [http://localhost:8000/api/game](http://localhost:8000/api/game)
-Description: This request is sent to the server to retrieve all games.
+   - Endpoint: `/api/game`
+   - URI: [http://localhost:8000/api/game](http://localhost:8000/api/game)
+   - Description: This request is sent to the server to retrieve all games.
 
-2. (GET) Get Banner
+2. (GET) Retrieve Banner
 
-Endpoint: /api/banner
-URI: [http://localhost:8000/api/banner](http://localhost:8000/api/banner)
-Description: This request is sent to the server to retrieve a banner.
+   - Endpoint: `/api/banner`
+   - URI: [http://localhost:8000/api/banner](http://localhost:8000/api/banner)
+   - Description: This request is sent to the server to retrieve a banner.
 
-3. (GET) Get gameLanding
+3. (GET) Retrieve Game Landing Page
 
-Endpoint: /api/gamelanding
-URI: [http://localhost:8000/api/gamelanding](http://localhost:8000/api/gamelanding)
-Description: This request is sent to the server to retrieve the game landing page.
+   - Endpoint: `/api/gameLanding`
+   - URI: [http://localhost:8000/api/gameLanding](http://localhost:8000/api/gameLanding)
+   - Description: This request is sent to the server to retrieve the game landing page.
 
-4. (GET) Get platform
+4. (GET) Retrieve Platforms
 
-Endpoint: /api/platform
-URI: [http://localhost:8000/api/platform](http://localhost:8000/api/platform)
-Description: This request is sent to the server to retrieve platforms.
+   - Endpoint: `/api/platform`
+   - URI: [http://localhost:8000/api/platform](http://localhost:8000/api/platform)
+   - Description: This request is sent to the server to retrieve platforms.
 
-5. (GET) Get genre
+5. (GET) Retrieve Genres
 
-Endpoint: /api/genre
-URI: [http://localhost:8000/api/genre](http://localhost:8000/api/genre)
-Description: This request is sent to the server to retrieve genres.
+   - Endpoint: `/api/genre`
+   - URI: [http://localhost:8000/api/genre](http://localhost:8000/api/genre)
+   - Description: This request is sent to the server to retrieve genres.
 
-6. (GET) Get topGames
+6. (GET) Retrieve Top Games
 
-Endpoint: /api/topGames
-URI: [http://localhost:8000/api/topGames](http://localhost:8000/api/topGames)
-Description: This request is sent to the server to retrieve top games.
+   - Endpoint: `/api/topGames`
+   - URI: [http://localhost:8000/api/topGames](http://localhost:8000/api/topGames)
+   - Description: This request is sent to the server to retrieve top games.
 
-7. (GET) Get randomGame
+7. (GET) Retrieve Random Game
 
-Endpoint: /api/randomGame
-URI: [http://localhost:8000/api/randomGame](http://localhost:8000/api/randomGame)
-Description: This request is sent to the server to retrieve a random game.
+   - Endpoint: `/api/randomGame`
+   - URI: [http://localhost:8000/api/randomGame](http://localhost:8000/api/randomGame)
+   - Description: This request is sent to the server to retrieve a random game.
 
-8. (GET) Get Game Detail
+8. (GET) Retrieve Game Details
 
-Endpoint: /api/game/{gameId}
-URI: [http://localhost:8000/api/game/{gameId}](http://localhost:8000/api/game/{gameId})
-Description: This request is sent to the server to retrieve the details of a specific game by its ID.
+   - Endpoint: `/api/game/{gameId}`
+   - URI: [http://localhost:8000/api/game/{gameId}](http://localhost:8000/api/game/{gameId})
+   - Description: This request is sent to the server to retrieve the details of a specific game by its ID.
+
+9. (POST) Create New Game
+
+   - Endpoint: `/api/game`
+   - URI: [http://localhost:8000/api/game](http://localhost:8000/api/game)
+   - Description: This request is sent to the server to create a new game with the provided details.
+
+10. (DELETE) Delete a Game
+
+    - Endpoint: `/api/game/{gameId}`
+    - URI: [http://localhost:8000/api/game/{gameId}](http://localhost:8000/api/game/{gameId})
+    - Description: This request is sent to the server to delete a specific game by its ID.
+
+11. (POST) Create Game Landing Page
+
+    - Endpoint: `/api/gameLanding`
+    - URI: [http://localhost:8000/api/gameLanding](http://localhost:8000/api/gameLanding)
+    - Description: This request is sent to the server to create a game landing page with the provided details.
+
+12. (DELETE) Delete Game Landing Page
+
+    - Endpoint: `/api/gameLanding/{gameLandingId}`
+    - URI: [http://localhost:8000/api/gameLanding/{gameLandingId}](http://localhost:8000/api/gameLanding/{gameLandingId})
+    - Description: This request is sent to the server to delete a specific game landing page by its ID.
+
+13. (POST) Create Top Game
+
+    - Endpoint: `/api/topGames/{year}`
+    - URI: [http://localhost:8000/api/topGames/{year}](http://localhost:8000/api/topGames/{year})
+    - Description: This request is sent to the server to create a new top game entry for the specified year.
+
+14. (GET) Retrieve Top Games for a Specific Year
+
+    - Endpoint: `/api/topGames/{year}`
+    - URI: [http://localhost:8000/api/topGames/{year}](http://localhost:8000/api/topGames/{year})
+    - Description: This request is sent to the server to retrieve the top games for the specified year.
